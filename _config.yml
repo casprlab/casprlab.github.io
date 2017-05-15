@@ -26,7 +26,7 @@ github:
   repository_name: pixie
   owner_name: casprlab
   project_tagline: 2-factors in a flash
-  repository_url: casprlab/pixie
+  repository_url: "https://github.com/casprlab/pixie"
 
 # Build settings
 markdown: kramdown
