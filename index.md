@@ -6,3 +6,6 @@ layout: default
 ---
 
 Pixie is a novel two-factor mobile authentication method.
+
+Click on the video for a short demo.
+[![Demo](assets/images/pixie_frame.gif)](https://youtu.be/tWepolcXUJg)
