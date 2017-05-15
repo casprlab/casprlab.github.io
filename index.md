@@ -5,7 +5,7 @@
 layout: default
 ---
 
-Pixie is a novel two-factor mobile authentication method.
+We introduce Pixie, a novel, camera based two factor authentication solution for mobile and wearable devices. A quick and familiar user action of snapping a photo is sufficient for Pixie to simultaneously perform a graphical password authentication and a physical token based authentication, yet Pixie does not require any expensive, uncommon hardware.
 
 Click on the video for a short demo.
 [![Demo](images/pixie_frame.gif)](https://youtu.be/tWepolcXUJg)
