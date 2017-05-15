@@ -23,6 +23,7 @@ github_username:  casprlab
 
 # Github settings
 github:
+  is_project_page: true
   repository_name: pixie
   owner_name: casprlab
   project_tagline: 2-factors in a flash
