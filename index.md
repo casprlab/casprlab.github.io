@@ -10,4 +10,4 @@ We introduce Pixie, a novel, camera based two factor authentication solution for
 Click on the video for a short demo.
 [![Demo](images/pixie_frame.gif)](https://youtu.be/tWepolcXUJg)
 
-For more details, see the <a href="http://www.casprlab.com/projects.html">project web page</a>
+For more details, see the <a href="http://www.casprlab.com/pixie.html">project web page</a>
